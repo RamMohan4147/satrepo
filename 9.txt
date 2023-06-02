@@ -1,0 +1,54 @@
+According to sunmicrosystems there are 3 flavours(modules) in java
+
+1.JSE/J2SE
+
+2.JEE/J2EE
+
+3.JME/J2ME
+
+
+1.JSE/J2SE(Core Java) 
+  ========
+
+ JSE means Java Standrad Edition or Java to Standrad Edition.
+
+This module is given to develop "Standarad Alone Applications" and
+"Desktop/GUI Applications".
+
+Standarad Alone Applications
+============================
+the applications which contains main() method and specific to only one computer
+where it is installed.
+
+Desktop/GUI applications
+========================
+the applicatiom which contains main() method,Graphics(like textbox,button,radio button,...etc)
+and specific to only one computer where it is installed.
+
+-->JSE module is given in the form of jdk s/w
+
+-->jdk means "java development kit".
+
+-->inorder to work with JSE module for developing srandarad alone applications
+   and desktop application,we must install jdk s/w in our computer
+
+
+the latest version of jdk s/w is "Java SE 20" relesed in the year "September 2023 for OpenJDK"
+
+
+2.JEE/J2EE
+  ========
+
+JEE means Java Enterprise Edition.
+
+-->this module is given to develop enterprise applications,webapplications,client/server applications,distributed applications,2-tier applications,3-tier applications,...n-tier
+appplications.
+
+According to s/w industry all most all projects are developed using JEE module.....
+
+But JSE is the base module for JEE module
+
+
+
+
+
